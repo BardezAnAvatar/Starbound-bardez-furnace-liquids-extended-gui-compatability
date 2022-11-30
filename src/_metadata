@@ -1,0 +1,9 @@
+{
+  "author" : "Bardez",
+  "description" : "This mod does the following:\n[list]\n  [*]Provides compatability between my new Furnace tab for liquids and Extended GUI",
+  "friendlyName" : "Molten Liquids tab for Furnace / Extended GUI Patch",
+  "name" : "bardez_furnace_liquids_extended_gui_patch",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "version" : "0.1.0",
+  "includes": ["bardez_furnace_liquids", "Extended GUI"]
+}
