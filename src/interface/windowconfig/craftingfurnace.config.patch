@@ -2,12 +2,22 @@
   //Update to Extended GUI values needed
   {
     "op" : "replace",
-    "path" : "/paneLayout/lblLiqTab/position/1",
+    "path" : "/paneLayout/lblSmeltTab/position/1",
+    "value" : 295 //two lower than 297 because the image is larger
+  },
+  {
+    "op" : "replace",
+    "path" : "/paneLayout/lblCoalesceTab/position/1",
     "value" : 295 //two lower than 297 because the image is larger
   },
   {
     "op" : "replace",
     "path" : "/paneLayout/categories/buttons/2/position/1",
+    "value" : 295
+  },
+  {
+    "op" : "replace",
+    "path" : "/paneLayout/categories/buttons/3/position/1",
     "value" : 295
   }
 ]
