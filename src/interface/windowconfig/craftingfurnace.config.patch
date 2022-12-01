@@ -3,12 +3,12 @@
   {
     "op" : "replace",
     "path" : "/paneLayout/lblSmeltTab/position/1",
-    "value" : 295 //two lower than 297 because the image is larger
+    "value" : 297
   },
   {
     "op" : "replace",
     "path" : "/paneLayout/lblCoalesceTab/position/1",
-    "value" : 295 //two lower than 297 because the image is larger
+    "value" : 297
   },
   {
     "op" : "replace",
